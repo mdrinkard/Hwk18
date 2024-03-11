@@ -1,0 +1,6 @@
+###############################
+Streamlit app
+The app works and it puts blocks on the chain. See images for screenshot of blocks added and validated.
+
+################################
+Shouldnt require anything other than the python file to run. This file is located in the starter code folder in the repo
